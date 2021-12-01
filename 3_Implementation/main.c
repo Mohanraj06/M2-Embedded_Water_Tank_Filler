@@ -1,28 +1,25 @@
-#define F_CPU 16000000
 
+/**
+ * @file main.c
+ * @author Mohanraj D
+ * @brief project to turn on and off pump automatically using flost sensors
+ * @version 0.1
+ * @date 2021-12-01
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+#define F_CPU 16000000
+/**
+ * Including Files 
+ */
 #include <avr/io.h>
 #include"floatSwitchInit.h"
 #include"relayInit.h"
+
 uint8_t top_switch_state;
 uint8_t bottom_switch_state;
-/*
-void floatSwitchInit(void)
-{
-	// top sensor 
-	DDRD &= ~(1<<0);	//set pinD0 as input
-	PORTD |= (1<<0); //use pull-up resistor on pinD0
-	
-	// bottom sensor 
-	DDRD &= ~(1<<1);	//set pinD1 as input
-	PORTD |= (1<<1); //use pull-up resistor on pinD1
-}
 
-void relayInit(void)
-{
-	DDRB |= (1<<1); //set pinB1 as output
-	PORTB &= ~(1<<1); //set portB1 low
-}
-*/
 int main(void)
 {
 	//Initialize the components

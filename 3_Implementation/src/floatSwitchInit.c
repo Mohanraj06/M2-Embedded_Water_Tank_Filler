@@ -1,5 +1,16 @@
-#define F_CPU 16000000
-
+/**
+ * @file floatSwitchInit.c
+ * @author Mohanraj D
+ * @brief Initialize port for sensors
+ * @version 0.1
+ * @date 2021-12-01
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+/**
+ * Including files  
+ */
 #include <avr/io.h>
 #include"floatSwitchInit.h"
 #include"relayInit.h"

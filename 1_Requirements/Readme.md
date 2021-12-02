@@ -17,10 +17,10 @@ established in order to set some works automatically such Atmega328p microproces
 circuits logically.
 ## Cost and Features and Timeline
 ### Features
-  - Switch off motor automatically
-  - avoid wastage of water  
-  - Doesn't require manpower to switch off the motor 
-  - Avoid breeding of mosquitoes on terrace
+- Switch off motor automatically
+- avoid wastage of water  
+- Doesn't require manpower to switch off the motor 
+- Avoid breeding of mosquitoes on terrace
 ## SWOT ANALYSIS
 ## 4W&#39;s and 1&#39;H
 ## Who
@@ -36,4 +36,4 @@ circuits logically.
 ## Detail requirements
 ## High Level Requirements
 
-##  Low level Requirements
+## Low level Requirements

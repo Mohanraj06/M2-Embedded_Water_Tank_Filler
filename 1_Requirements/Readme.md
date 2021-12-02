@@ -1,11 +1,8 @@
 # Water Tank Filler
 
 ## Introduction
-
-
 In urban areas where water supplies are regulated to some specific period of time, person need to be present on that specific time to switch on their water pumps and store water in their water storage tank. If they are not present at that time then they have to pass through the hassle created due to no water. This project will intelligently (without need of any person) switch on the motor when municipal water supply comes and switch off the motor when storage tank gets filled.
 Number of people turn on their motor and forget to switch it off, which causes wastage of water and electricity due to overflowing of water tank. This project will save water as well as electricity. According to MCD breeding of mosquitoes on terraces is largely due to contamination of water because of water overflowing. This will prevent breeding of mosquitoes This eliminates the need of physical presence of a person on time to switch on/off the water pump motor.
-
 ## Research
 Water is the most important natural resources in human’s life. Human needs the water in almost all daily activities such as
 washing, cleaning, taking a bath, the irrigation, and the industry needs. However, the amount of clean water is decreasing,
@@ -24,10 +21,7 @@ circuits logically.
 - avoid wastage of water
 - Doesn't require manpower to switch off the motor
 - Avoid breeding of mosquitoes on terraces
-
 ## SWOT ANALYSIS
-
-
 # 4W&#39;s and 1&#39;H
 ## Who:
 
@@ -39,14 +33,7 @@ circuits logically.
 
 ## How:
 
-
 # Detail requirements
 ## High Level Requirements:
 
-| ID | Description | Category | Status | 
-| ----- | ----- | ------- | ---------|
-
-
 ##  Low level Requirements:
-| ID | Description | HLR ID | Status (Implemented/Future) |
-| ------ | --------- | ------ | ----- |

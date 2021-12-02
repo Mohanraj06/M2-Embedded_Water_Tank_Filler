@@ -22,7 +22,7 @@ circuits logically.
   - Doesn't require manpower to switch off the motor 
   - Avoid breeding of mosquitoes on terrace
 ## SWOT ANALYSIS
-# 4W&#39;s and 1&#39;H
+## 4W&#39;s and 1&#39;H
 ## Who
 
 ## What
@@ -33,7 +33,7 @@ circuits logically.
 
 ## How
 
-# Detail requirements
+## Detail requirements
 ## High Level Requirements
 
 ##  Low level Requirements

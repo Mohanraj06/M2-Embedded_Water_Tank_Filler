@@ -24,13 +24,13 @@ circuits logically.
 ## SWOT ANALYSIS
 ## 4W&#39;s and 1&#39;H
 ## Who
-
+People turn on their motor and forget to switch it off, which causes wastage of water and electricity due to overflowing of water tank
 ## What
-
+Human needs the water in almost all daily activities such as washing, cleaning, taking a bath, the irrigation, and the industry needs.
 ## When
-
+Person need to be present on that specific time to switch on their water pumps and store water in their water storage tank
 ## Where
-
+This can be used in Apartments,House,Storage tanks.
 ## How
 
 ## Detail requirements

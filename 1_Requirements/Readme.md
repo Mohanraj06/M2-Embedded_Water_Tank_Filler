@@ -9,7 +9,7 @@ washing, cleaning, taking a bath, the irrigation, and the industry needs. Howeve
 whereas the number of people in the world are always increasing. Considering to the need of water for each island in Indonesia,
 especially Java island, Bali island, and Nusa Tenggara island, it can be analyzed that the clean water supply must be improved in
 order to fulfill the people need of the clean water regularly.
-The technology contributes to the culture changes [1]. The technology is commonly made in order to help the people perform
+The technology contributes to the culture changes. The technology is commonly made in order to help the people perform
 some activities easy. Consequently, the cultural change is usually triggered by the technological transformation. One of the
 present technologies is the automation technology. In some cases, the people sometimes want to carry out their work to be set
 automatically so that they can save the energy to perform another activity. Some sophisticated automation materials have been
@@ -23,17 +23,17 @@ circuits logically.
 - Avoid breeding of mosquitoes on terraces
 ## SWOT ANALYSIS
 # 4W&#39;s and 1&#39;H
-## Who:
+## Who
 
-## What:
+## What
 
-## When:
+## When
 
-## Where:
+## Where
 
-## How:
+## How
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 
-##  Low level Requirements:
+##  Low level Requirements

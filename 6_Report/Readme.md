@@ -48,6 +48,8 @@ This can be used in Apartments,House,Storage tanks.
 ##Structural Diagram
 ## Components Diagram
 ![Components Diagram](https://github.com/Mohanraj06/M2-Embedded_Water_Tank_Filler/blob/main/2_Design/Structural%20Diagram/Component%20diagram.png)
+
+## BILL OF MATERIAL
 | S NO | COMPONENTS | QUANTITY | LINKS |
 | :---: | :---: | :---: | :---: | 
 |1|ATMega328|1|https://www.electronicscomp.com/atmega328p-microcontroller-india?search=atmega328|

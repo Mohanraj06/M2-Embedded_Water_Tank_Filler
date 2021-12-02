@@ -35,5 +35,8 @@ This can be used in Apartments,House,Storage tanks.
 
 ## Detail requirements
 ## High Level Requirements
-
+- Turn OFF the pump when the tank is filled.
+- Turn ON the punp When water reaches the below bottom sensor.
+- Prevent overflow of water.
 ## Low level Requirements
+- Avoid overflow of water from the tank. 

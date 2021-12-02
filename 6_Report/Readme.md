@@ -58,4 +58,17 @@ This can be used in Apartments,House,Storage tanks.
 |4|Bread Board|1|https://www.electronicscomp.com/gl12-840-points-solderless-breadboard?search=Bread%20board|
 |5|Connecting Wires|As per requirement|https://www.electronicscomp.com/jumper-wire-male?search=jumper|
 |6|Battery|1|https://www.roboelements.com/product/9v-hi-watt-zinc-chloride-hw-battery-for-diy-projects/|
+## Test Plan
+## HIGH LEVEL TEST PLAN
+
+| **Test ID** | **Description**                                              | **Actual Output** | **Expected Output** |   
+|-------------|--------------------------------------------------------------|--------------------|-----------------|
+|  H1      | Should turn OFF Pump when water reaches the Top float Sensor |   Turn off pump | Turn Off pump|
+|  H2      | Should turn ON Pump when water reaches the bottom float Sensor|  Turn on pump|Turn on pump  |
+
+## LOW LEVEL TEST PLAN
+| **Test ID** | **Description**                                              | **Actual Output** | **Expected Output** |   
+|-------------|--------------------------------------------------------------|--------------------|-----------------|
+|  L1     | Turn ON pump omly when both the sensor are '0' | Turn ON Motor | Turn ON Motor |
+
 

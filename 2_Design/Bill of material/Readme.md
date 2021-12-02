@@ -5,3 +5,4 @@
 |3|Relay|1|https://www.electronicscomp.com/1-channel-12v-30a-relay-control-board-module-with-optocoupler?search=Relay|
 |4|Bread Board|1|https://www.electronicscomp.com/gl12-840-points-solderless-breadboard?search=Bread%20board|
 |5|Connecting Wires|As per requirement|https://www.electronicscomp.com/jumper-wire-male?search=jumper|
+|6|Battery|1|https://www.roboelements.com/product/9v-hi-watt-zinc-chloride-hw-battery-for-diy-projects/|

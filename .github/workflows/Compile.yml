@@ -1,13 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  name: Compile-Linux
+name: Compile-Linux
 
 on:
   push:
@@ -25,4 +16,4 @@ jobs:
     - name: get_avr-gcc
       run: sudo apt-get install gcc-avr binutils-avr avr-libc
     - name: Compile
-      run: make -C 3_Implementation/ all
+      run: make  -C 3_Implementation/ all
